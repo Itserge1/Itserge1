@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with learning how to edit video.
 - 💬 Ask me about Coding, Real Estate, Stocks, Ecommerse, Soccer , and Anime.
 - 📫 How to reach me: ig:@realitserge
-- 😄 Second github Account github.com/SergeCodeFirst
+- 😄 Second github Account https://github.com/SergeCodeFirst
 
