@@ -1,4 +1,4 @@
-### Hi there 👋 - Second github Account https://github.com/SergeCodeFirst
+### Hi I'm Serge 👋 
 
 - 🔭 I’m currently working on and ecommerce website call UrbanKicks
 - 🌱 I’m currently learning how to use docker with aws and automate deployment process by creating ci/cd pipeline
@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with learning how to edit video.
 - 💬 Ask me about Coding, Real Estate, Stocks, Ecommerse, Soccer , and Anime.
 - 📫 How to reach me: ig:@realitserge
-- 😄 Second github Account @SergeCodeFirst
+- 😄 Second github Account github.com/SergeCodeFirst
 
