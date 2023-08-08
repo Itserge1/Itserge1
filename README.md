@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 - Second github Account https://github.com/SergeCodeFirst
 
 - 🔭 I’m currently working on and ecommerce website call UrbanKicks
 - 🌱 I’m currently learning how to use docker with aws and automate deployment process by creating ci/cd pipeline
